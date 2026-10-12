@@ -50,9 +50,9 @@ The sector displays a **moderately fragmented** structure: while mega-enterprise
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source form builders, JSON Schema rendering libraries, and visual designers ranked by GitHub Stars:
+Curated open-source form builders, JSON Schema rendering libraries, and visual designers ranked by GitHub_Stars:
 
-| Project | Stars | Description & Architecture |
+| Project | GitHub_Stars | Description & Architecture |
 | :--- | :--- | :--- |
 | **[Budibase](https://github.com/Budibase/budibase)** | [![Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers) | Open-source low-code platform (GPL-3.0) with enterprise-grade form generation. Supports schema-driven field generation, multi-step wizards, custom validations, and automatic form creation from PostgreSQL, MySQL, and REST data sources. |
 | **[react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)** | [![Stars](https://img.shields.io/github/stars/rjsf-team/react-jsonschema-form?style=social&color=white)](https://github.com/rjsf-team/react-jsonschema-form/stargazers) | Standard React component (Apache-2.0) that builds dynamic web forms natively from JSON Schema. Provides official theme support for Material-UI, Ant Design, Bootstrap, Chakra UI, and Fluent UI with custom field widgets and validators. |
@@ -99,7 +99,7 @@ Contributions are welcome! To propose a new SaaS or open-source tool:
 
 1. 🍴 **Fork** the repository.
 2. 🌿 **Create a branch** for your update (`git checkout -b feature/add-new-form-tool`).
-3. 📝 **Edit `README.md`**: Follow the established table format. For open-source tools, include the live Shields.io stars badge with `style=social&color=white` linking to the stargazers page. For SaaS, include accurate starting pricing and explicit free tier/trial limits.
+3. 📝 **Edit `README.md`**: Follow the established table format. For open-source tools, include the live Shields.io Stars_Badge with `style=social&color=white` linking to the stargazers page. For SaaS, include accurate starting pricing and explicit free tier/trial limits.
 4. 🚀 **Submit a Pull Request** with a succinct explanation of why the tool fits the dynamic form ecosystem.
 
 ---
